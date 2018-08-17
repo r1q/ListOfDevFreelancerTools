@@ -65,6 +65,9 @@
 * Snippet Manager - https://gist.github.com
 * Snippet Manager - https://pastebin.com
 
+## Online Meetings and Clients Showroom:
+* Remote Desktop Access, Remote Support and Online Meetings - https://www.teamviewer.us/
+
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
 * What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
