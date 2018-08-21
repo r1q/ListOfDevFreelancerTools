@@ -13,6 +13,7 @@
 * Create Gradients - https://uigradients.com
 * CSS Button Generator - http://css3buttongenerator.com 
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
+* Clip path maker - https://bennettfeely.com/clippy/
 
 ## TEXT && ICONS GENERATORS:
 * Text Content Generator - http://www.lipsum.com
